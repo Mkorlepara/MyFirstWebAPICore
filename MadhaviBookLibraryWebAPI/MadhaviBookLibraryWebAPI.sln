@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadhaviTrackingAPI", "MadhaviTrackingAPI.csproj", "{4CA3D386-3698-47EA-8B3F-0639A702CE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication4", "..\WebApplication4\WebApplication4.csproj", "{3ABC87DC-2EF7-4646-9850-CAEECC178ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA3D386-3698-47EA-8B3F-0639A702CE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA3D386-3698-47EA-8B3F-0639A702CE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA3D386-3698-47EA-8B3F-0639A702CE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA3D386-3698-47EA-8B3F-0639A702CE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABC87DC-2EF7-4646-9850-CAEECC178ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABC87DC-2EF7-4646-9850-CAEECC178ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABC87DC-2EF7-4646-9850-CAEECC178ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABC87DC-2EF7-4646-9850-CAEECC178ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C5452D-682E-499C-A9AD-C95891520861}
+	EndGlobalSection
+EndGlobal
